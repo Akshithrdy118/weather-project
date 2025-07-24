@@ -1,0 +1,34 @@
+.container {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+}
+body {
+    background-image: url("whether1.avif");
+    background-size:cover;
+}
+.heading {
+    color:aliceblue;
+    text-align: center;
+}
+.button {
+    background-color: rgb(75, 189, 243);
+    border:1px solid #1ea6db;
+    width:120px;
+    height:40px;
+    color:aliceblue;
+    border-radius:10px;
+}
+.input {
+    width:180px;
+    height:30px;
+    border:0px;
+}
+.container1 {
+    display:flex;
+    flex-direction:column;
+    justify-content: end;
+    align-items: center;
+    color:aliceblue;
+}
